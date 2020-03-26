@@ -1,0 +1,3 @@
+[submodule "src/js/google-meet-grid-view"]
+	path = src/js/google-meet-grid-view
+	url = https://github.com/Fugiman/google-meet-grid-view.git

@@ -23,4 +23,4 @@ function injectScript(file_path, tag='html', type='script', text='') {
     node.appendChild(script);
 }
 
-injectScript(chrome.runtime.getURL('js/grid.js'));
+injectScript(chrome.runtime.getURL('js/google-meet-grid-view/grid.js'));
