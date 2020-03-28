@@ -1,7 +1,7 @@
 {
     "name": "Google Meet Grid View",
     "description": "Shows everyone in a Google Meet - Thanks to Chris Gamble!",
-    "version": "1.4.2",
+    "version": "1.6",
     "icons": {
         "16": "icons/icon16.png",
         "48": "icons/icon48.png",
@@ -20,7 +20,8 @@
       }
     ],
     "browser_action": {
-      "default_title": "Google Meet Grid View"
+      "default_title": "Google Meet Grid View",
+      "default_popup": "html/popup.html"
     },
     "web_accessible_resources": [
       "js/google-meet-grid-view/grid.js"
