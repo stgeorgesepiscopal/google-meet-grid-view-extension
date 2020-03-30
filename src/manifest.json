@@ -24,7 +24,7 @@
       "default_popup": "html/popup.html"
     },
     "web_accessible_resources": [
-      "js/google-meet-grid-view/grid.js"
+      "js/google-meet-grid-view/grid.user.js"
     ],
     "manifest_version": 2
   }
