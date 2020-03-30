@@ -1,7 +1,7 @@
 {
     "name": "Google Meet Grid View",
     "description": "Shows everyone in a Google Meet - Thanks to Chris Gamble!",
-    "version": "1.7",
+    "version": "1.9",
     "icons": {
         "16": "icons/icon16.png",
         "48": "icons/icon48.png",
