@@ -12,6 +12,6 @@ If you feel both grateful and generous, feel free to visit our [school's donatio
 # Cloning / building
 This repo uses submodules to keep pulling the latest userscript (basically, I'm just injecting his script)
 
-So instead of just `git clone` you'll want to do `git clone -recursive` if you're installing the script locally.
+So instead of just `git clone` you'll want to do `git clone --recursive` if you're installing the script locally.
 
 To build the script yourself, just clone the repo, go to the directory and use `zip -r packed.zip src` that will generate the zip file you need to upload to the Chrome Web Store (I think it costs like $5 one time to become a developer on there). Oh, and be sure to adjust the variables in `manifest.json` to reflect your own information.
