@@ -1,4 +1,4 @@
-# Introduction and acknolwedgements
+# Introduction and acknowledgements
 
 This extension shows everyone in a Google Meet - based almost entirely on [Chris Gamble's Userscript](https://greasyfork.org/en/scripts/397862-google-meet-grid-view), just packaged as a proper Chrome Extension so that we can push it via GAdmin to our faculty and students. 
 
